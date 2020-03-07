@@ -11,7 +11,7 @@ name: OpenWrt-CI
 
 on:
   push:
-    branches: 
+  branches: 
       - CI-demo
   #     ↑↑↑ 改成你的分支名, 一般是master
   # schedule:
